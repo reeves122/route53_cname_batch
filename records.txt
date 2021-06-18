@@ -1,0 +1,2 @@
+testrecord1.testzone.local, testname1.testzone.local
+testrecord2.testzone.local, testname2.testzone.local
